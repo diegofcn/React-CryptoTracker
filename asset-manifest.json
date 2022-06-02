@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/diegofcn/React-CryptoTracker/static/css/main.ec3341f7.css",
+    "main.js": "/diegofcn/React-CryptoTracker/static/js/main.ad3e355a.js",
+    "index.html": "/diegofcn/React-CryptoTracker/index.html",
+    "main.ec3341f7.css.map": "/diegofcn/React-CryptoTracker/static/css/main.ec3341f7.css.map",
+    "main.ad3e355a.js.map": "/diegofcn/React-CryptoTracker/static/js/main.ad3e355a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec3341f7.css",
+    "static/js/main.ad3e355a.js"
+  ]
+}
